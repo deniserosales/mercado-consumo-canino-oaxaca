@@ -1,0 +1,12 @@
+# Archivos de sistema y Python
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Entornos virtuales 
+.venv/
+venv/
+env/
+
+# Datos (Opcional: Si el CSV pesa más de 50MB, descomenta la siguiente línea)
+# data/raw/*.csv
