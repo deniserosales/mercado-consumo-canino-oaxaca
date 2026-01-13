@@ -20,16 +20,6 @@ Pandas & NumPy:** Limpieza y manipulación de datos.
 Seaborn & Matplotlib:** Visualización de datos y storytelling.
 BeautifulSoup & Requests:** Web Scraping ético para obtención de datos.
 
--------- Estructura del Proyecto ----------
-├── data/               # Datasets crudos y procesados
-├── notebooks/          # Análisis exploratorio y gráficas (Jupyter)
-├── src/                # Código fuente (ETL y Scraping)
-│   ├── scraper.py      # Script de extracción de datos
-│   ├── data_cleaning.py# Limpieza y segmentación de negocio
-│   └── categorization.py # Lógica de clasificación de productos
-├── requirements.txt    # Dependencias del proyecto
-└── README.md           # Documentación
-
 ---- Cómo ejecutar este proyecto ----
 1. Clonar el repositorio.
 2. Instalar dependencias:
